@@ -1,1 +1,25 @@
+{
+	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+	"title": "斗鱼TV（测试源是否失效2018/10/24）",
 
+	"channels": [
+		{
+			"name":"斗鱼12306电棍,
+			"url": "https://hlsa.douyucdn.cn/live/12306rs3TsKLVpsT_900/playlist.m3u8"
+		},
+		{
+			"name":"斗鱼290935周淑怡",
+			"url": "https://hlsa.douyucdn.cn/live/290935rYwGWhGMwN_900/playlist.m3u8 "
+		},
+		{
+			"name":"斗鱼99999旭旭宝宝",
+			"url": "https://hls1a.douyucdn.cn/live/99999rJH2t5cQMmE_900/playlist.m3u8?wsSecret=1dd51a919e550ae8c797c7d1ecb01728&wsTime=1540382113&ct=cpn-tgp"
+		},
+		{
+			"name":"斗鱼99999旭旭宝宝2",
+			"url": "https://hls1a.douyucdn.cn/live/99999rJH2t5cQMmE_900/playlist.m3u8"
+		},
+
+	]
+
+}
