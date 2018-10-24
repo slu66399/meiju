@@ -1,15 +1,11 @@
 {
 	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
-	"title": "斗鱼TV（测试源是否失效2018/10/24）",
+	"title": "行尸走肉第九季HD（持续更新）",
 
 	"channels": [
 		{
 			"name":"斗鱼12306电棍",
 			"url":"https://hlsa.douyucdn.cn/live/12306rs3TsKLVpsT_900/playlist.m3u8"
-		},
-		{
-			"name":"斗鱼290935周淑怡",
-			"url":"https://hlsa.douyucdn.cn/live/290935rYwGWhGMwN_900/playlist.m3u8 "
 		},
 		{
 			"name":"斗鱼99999旭旭宝宝",
